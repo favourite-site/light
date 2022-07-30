@@ -19,7 +19,8 @@ const ContentTop: React.FC<Props> = ({description}) => {
             flexDir="column"
         >
             <Image
-                src="./castalia.png"
+                src="./elang.png"
+                width="320px"
             >
             </Image>
             <Text

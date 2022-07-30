@@ -1,5 +1,35 @@
 [
     {
+        "name": "AI视觉编辑",
+        "icon": "./images/menu/icon.svg",
+        "site": [
+            {
+                "name": "pixelbin",
+                "description": "PixelBin是一個多媒體轉換一體化平台，成立于2021年",
+                "url": "https://www.pixelbin.io/",
+                "image": "./images/site/pixelbin.png"
+            },
+            {
+                "name": "removebg",
+                "description": "一个免费自动去除背景图片的站点，只需要轻松 5 秒钟，AI 在线技术帮你自动抠图",
+                "url": "https://www.remove.bg/",
+                "image": "https://www.remove.bg/apple-touch-icon.png?v=YAXaAv7pao"
+            },
+            {
+                "name": "cutout",
+                "description": "Cutout 人工智能工具箱，提供背景删除、视频背景删除、面部裁剪、卡通自拍、证件照制作工具等等通过智能 AI 批量解决的在线应用神器",
+                "url": "https://www.cutout.pro/",
+                "image": "https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/deeplor/logo-b.png"
+            },
+            {
+                "name": "Unscreen",
+                "description": "Unscreen 智能删除视频背景的神器",
+                "url": "https://www.unscreen.com/",
+                "image": "https://www.unscreen.com/apple-touch-icon-114x114.png"
+            }
+        ]
+    },
+    {
         "name": "Icon",
         "icon": "./images/menu/icon.svg",
         "site": [
