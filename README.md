@@ -1,6 +1,6 @@
-# [Castalia](https://afterwork-design.github.io/castalia/)
+# [ELANG]
 
-不只是设计师的灵感源泉，精选国内外优质网站，让每个人都能找到自己需要的网站。
+精选国内外优质网站，让每个人都能找到自己需要的网站。
 
 ## 本地运行
 
@@ -71,4 +71,3 @@
 
 ### 其他方式
 
-提交 [issue](https://github.com/afterwork-design/castalia/issues)，详细说明需求，然后由负责人去处理 issue。

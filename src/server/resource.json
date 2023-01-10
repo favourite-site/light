@@ -26,6 +26,12 @@
                 "description": "Unscreen 智能删除视频背景的神器",
                 "url": "https://www.unscreen.com/",
                 "image": "https://www.unscreen.com/apple-touch-icon-114x114.png"
+            },            
+            {
+                "name": "Tome",
+                "description": "Tome 在线智能 PPT 制作工具",
+                "url": "https://beta.tome.app/",
+                "image": "https://tome-logos.imgix.net/auth0/tome-20220317-p3-fx-padded.png"
             }
         ]
     },
