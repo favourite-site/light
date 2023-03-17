@@ -142,14 +142,14 @@ const Content = () => {
                         <H2 fontSize="16px" mb="15px">关于</H2>
                         <VStack alignItems="flex-start" fontSize="16px">
                             <Text>
-                                Castaila 是一个资源导航网站，精选国内外优质网站，
-                                让每个人都能找到自己需要的资源。如果你有比较好的资源，可以通过下方地址提供给我们。
+                                这是一个资源导航网站，精选国内外优质网站，
+                                让每个人都能找到自己需要的资源。
                             </Text>
                             <Text>
-                                Castalia 是 Afterwork 中的一个项目，想了解更多其他项目可以点击下方图片。
+                                如果你有比较好的资源，可以通过下方地址提供给我们。
                             </Text>
                             <Link
-                                href="https://afterwork-design.github.io"
+                                href="https://github.com/favourite-site/light"
                             >
                                 <Image
                                     src="./afterwork.png"
@@ -162,7 +162,7 @@ const Content = () => {
                             </Text>
                             <Text>
                                 项目地址：
-                                <a className="linkColor" href="https://github.com/afterwork-design/castalia">castalia | github</a>
+                                <a className="linkColor" href="https://github.com/favourite-site/light">light | github</a>
                             </Text>
                             <Text>
                                 资源推荐入口：
@@ -171,10 +171,6 @@ const Content = () => {
                         </VStack>
                     </Box>
                     <Text color="#999999" fontSize="16px">
-                        <span>Designed by </span>
-                        <a href="https://tangweijuan.com" target="_blank">Tang Weijuan</a>
-                        <span> & Developed by </span>
-                        <a href="https://pengfeixc.com" target="_blank">Wang Pengfei</a>
                     </Text>
                 </VStack>
             </VStack>
