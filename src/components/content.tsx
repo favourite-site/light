@@ -29,9 +29,9 @@ const Content = () => {
         }
     };
 
-    useEffect(() => {
-        updateMyCollection();
-    }, []);
+    // useEffect(() => {
+    //     updateMyCollection();
+    // }, []);
 
     const my = {
         name: "我的",
@@ -98,7 +98,7 @@ const Content = () => {
                 display="inline-flex"
                 pos="relative"
             >
-                <HStack
+                {/* <HStack
                     pos="absolute"
                     right="10px"
                     top="10px"
@@ -124,16 +124,16 @@ const Content = () => {
                         title="导出"
                         onClick={exportMyCollectionToLocal}
                     />
-                </HStack>
-                <ResourcePanel
+                </HStack> */}
+                {/* <ResourcePanel
                     key={my.name}
                     resource={my}
                     hasCollectBtn={false}
                     hasDeleteBtn
                     myCollection={myCollection}
-                />
+                /> */}
                 {
-                    resource.map((item) => (<ResourcePanel key={item.name} myCollection={myCollection} resource={item} hasDeleteBtn={false} hasCollectBtn />))
+                    resource.map((item) => (<ResourcePanel key={item.name} myCollection={myCollection} resource={item} hasDeleteBtn={false} hasCollectBtn={false} />))
                 }
                 <VStack
                     height="calc(100vh - 250px)"

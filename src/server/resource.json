@@ -1,5 +1,16 @@
 [
     {
+        "name": "编程工具",
+        "icon": "./images/menu/icon.svg",
+        "site": [
+            {
+                "name": "testing.ai",
+                "description": "abtesting 用于 A/B 测试的 GPT-3 支持的文本建议。关于ABtesting.ai  由于使用 GPT-3，他们为您的标题、文案和号召性用语提供自动文本建议。 ABtesting.ai 使用人工智能来创建、组合和测试标题、副本、号召性用语和图像的不同变体，以找到最适合您的受众的内容，从而提高转化率并降低成本。",
+                "url": "https://abtesting.ai/",
+                "image": "./images/site/pixelbin.png"
+            }]
+    },
+    {
         "name": "AI视觉编辑",
         "icon": "./images/menu/icon.svg",
         "site": [
